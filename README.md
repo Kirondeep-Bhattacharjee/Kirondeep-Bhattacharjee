@@ -7,7 +7,7 @@ I'm a 4th-year Computer Science student passionate about cybersecurity and curre
 - Languages: JavaScript, Python, C++, Bash
 - Frontend: HTML, CSS, Bootstrap, jquery, React
 - Backend: Node.js, Express, Axios
-- Database: PostgreSQL
+- Database: PostgreSQL, MongoDb
 - Security: Ethical Hacking, Web Security
 - Tools: Git, VS Code, Wireshark, BurpSuite, Postman, strapi, stripe
 
