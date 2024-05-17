@@ -30,7 +30,7 @@ I'm open to collaborating on full-stack projects. If you have an exciting projec
 - LinkedIn: [https://www.linkedin.com/in/kirondeep-bhattacharjee-862665205/]
 - Email: kiranbattacharji123@gmail.com
 
-Feel free to connect, and let's build something great together! 🚀
+Feel free to connect, and let's build something great together! 🚀 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirondeep-bhattacharjee&show_icons=true&theme=radical)
 
 
