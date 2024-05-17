@@ -31,6 +31,7 @@ I'm open to collaborating on full-stack projects. If you have an exciting projec
 - Email: kiranbattacharji123@gmail.com
 
 Feel free to connect, and let's build something great together! 🚀
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirondeep-bhattacharjee)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
